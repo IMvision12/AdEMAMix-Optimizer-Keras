@@ -13,7 +13,7 @@ Algorithm :
 
 Results on Cifar10:
 
-![image](https://github.com/user-attachments/assets/57003e31-f800-462c-af03-59032480d36c)
+![image](https://github.com/user-attachments/assets/ff6329ca-0edd-439d-9cb9-dde226e9ad77)
 
 Reference:
 
