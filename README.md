@@ -15,4 +15,7 @@ Results on Cifar10:
 
 ![image](https://github.com/user-attachments/assets/57003e31-f800-462c-af03-59032480d36c)
 
+Reference:
 
+Matteo Pagliardini, Pierre Ablin, David Grangier (2024). The AdEMAMix Optimizer: Better, Faster, Older
+paper : https://arxiv.org/abs/2409.03137
